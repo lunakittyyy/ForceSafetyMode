@@ -8,7 +8,6 @@ namespace ForceSafetyMode
     {
         static bool Prefix(ref bool __result)
         {
-            SafetyMode.Log.LogInfo("Something is checking if this is a safety account. Telling it that it is.");
             __result = true;
             return false;
         }

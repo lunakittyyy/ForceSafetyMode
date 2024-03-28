@@ -388,3 +388,4 @@ FodyWeavers.xsd
 # JetBrains Rider
 .idea/
 *.sln.iml
+C:/Program Files (x86)/Steam/steamapps/common/Gorilla Tag/BepInEx/plugins/ForceSafetyMode/ForceSafetyMode.dll
